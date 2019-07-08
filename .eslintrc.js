@@ -35,7 +35,14 @@ module.exports = {
     'space-before-blocks':'off',
     'comma-dangle':'off',
     'func-call-spacing':'off',
-    'no-new':'off'
+    'no-new':'off',
+    'no-unused-expressions':'off',
+    'no-sequences':'off',
+    'padded-blocks':'off',
+    'space-infix-ops':'off',
+    'keyword-spacing':'off',
+    'comma-spacing':'off',
+    
     
 
   }
